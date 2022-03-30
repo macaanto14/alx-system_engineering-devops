@@ -1,1 +1,2 @@
-find $PWD
+#!/bin/bash 
+pwd
