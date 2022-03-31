@@ -1,2 +1,5 @@
+#!/bin/bash
+ls -la
 0 string SCHOOL School data
 !:mime School
+file --mime-type -m /root/alx- school.mgc
